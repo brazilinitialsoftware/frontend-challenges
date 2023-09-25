@@ -100,4 +100,4 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 
 ## License
 
-[MIT](/license) &copy; Brazil Initial Software
+[MIT](license) &copy; Brazil Initial Software
