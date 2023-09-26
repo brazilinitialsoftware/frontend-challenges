@@ -12,6 +12,8 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 |      | Company                                                             | Stack                                         | Challenge                                                                               |
 | ---- | ------------------------------------------------------------------- | --------------------------------------------- | --------------------------------------------------------------------------------------- |
 | pt   | :brazil: [Tempo](davidmaleski.great-site.net)                            | React                                         | [Code →](https://github.com/davidmaleski/desafio-frontend)                                     | [Jobs](#)                             |
+| pt   | :brazil: [Instabuy](https://www.instabuy.com.br/)                        | Framework JS, HTML, CSS                       | [Code →](https://github.com/Instabuy-Ltda/Instabuy-Selecao/blob/master/2022/frontend.md)                               | [Jobs](https://www.linkedin.com/company/instabuy-incorporation/jobs/)
+
 ## License
 [MIT](license) &copy; Brazil Initial Software
 
