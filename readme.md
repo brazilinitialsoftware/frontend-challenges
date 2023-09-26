@@ -1,4 +1,4 @@
-<p align="center"><img src="(blob:https://initiate.alphacoders.com/394649e0-bf13-44f4-8285-d6f3473a6121](https://images3.alphacoders.com/773/773135.jpg)" alt="Challenge Accepted" width="200"></p>
+<p align="center"><img src="(https://images3.alphacoders.com/773/773135.jpg)" alt="Challenge Accepted" width="200"></p>
 
 # Front-end Challenges
 
