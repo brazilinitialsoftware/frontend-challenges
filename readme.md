@@ -9,8 +9,8 @@ The main objective of repository is testing your knowledge using real jobs chall
 
 Follows some playful (just open-source! :warning:) challenges of jobs.
 
-|      | Company                                                             | Stack                                         | Challenge                                                                               | Jobs on LinkedIn                                                                |
-| ---- | ------------------------------------------------------------------- | --------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+|      | Company                                                             | Stack                                         | Challenge                                                                               |
+| ---- | ------------------------------------------------------------------- | --------------------------------------------- | --------------------------------------------------------------------------------------- |
 | pt   | :brazil: [Tempo](davidmaleski.great-site.net)                            | React                                         | [Code →](https://github.com/davidmaleski/desafio-frontend)                                     | [Jobs](#)                             |
 ## License
 
