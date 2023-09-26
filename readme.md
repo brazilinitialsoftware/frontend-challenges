@@ -18,4 +18,4 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 [MIT](license) &copy; Brazil Initial Software
 
 ## inspired
-Inspired on Felipe Fialho
+Inspired on [Felipe Fialho](https://github.com/felipefialho)
